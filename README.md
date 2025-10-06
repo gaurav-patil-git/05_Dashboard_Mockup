@@ -17,11 +17,6 @@ This project leverages Claude (Sonnet 4.5 Free Version) to design a Power BI das
 - Developing and iteratively refining the design prompt
 - Using Claude to generate and refine the visual mockup
 
-
-<h2><a class="anchor" id="dataset"></a>📊 Dataset</h2>
-
-`.xlsx` file located in `/data/raw` folder
-
 <h2><a class="anchor" id="tools-technologies"></a>🛠️ Tools & Technologies</h2>
 
 | Task                 | Tools Used                          |
