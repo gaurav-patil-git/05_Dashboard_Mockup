@@ -86,8 +86,9 @@ This project leverages Claude (Sonnet 4.5 Free Version) to design a Power BI das
 - The font used throughout the dashboard is Segoe UI. The dashboard should be highly readable.
 ```
 
-<h2><a class="anchor" id="Mockup"></a>📊 Mockup</h2>
+<h2><a class="anchor" id="mockup"></a>📊 Final Mockup</h2>
 
+![final-mockup](https://github.com/gaurav-patil-git/05_Dashboard_Mockup/blob/main/visuals./final-mockup.png)
 
 <h2><a class="anchor" id="author-contact"></a>📝 Author & Contact</h2>
 
